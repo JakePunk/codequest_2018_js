@@ -1,0 +1,17 @@
+{
+  "name": "codequest",
+  "version": "1.0.0",
+  "description": "Practice coding javascript for codequest competition.",
+  "files": [
+    "bin"
+  ],
+  "scripts": {
+    "build": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "node-line-reader": "^0.0.3"
+  },
+  "author": "jacob@danlynn.org",
+  "license": "MIT"
+}
