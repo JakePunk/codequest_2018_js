@@ -1,5 +1,7 @@
 /**
- * Read a file one line at a time (kindof)
+ * Prob1 - PASS/FAIL grades
+ *
+ * NOTE: Run this using node 11.13.0 with the --experimental-modules option.
  */
 import fs from 'fs'
 import readline from 'readline'
